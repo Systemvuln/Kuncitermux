@@ -1,0 +1,2 @@
+# Kuncitermux
+Mengunci termux
